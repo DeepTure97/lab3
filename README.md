@@ -1,1 +1,1 @@
-THis is 3rd experiment of Idea lab 
+This is 3rd experiment of Idea lab 
